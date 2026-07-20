@@ -1,5 +1,5 @@
 pandas
 seaborn
 matplotlib
-streeamlit-option-menu
+streamlit-option-menu
 plotly
